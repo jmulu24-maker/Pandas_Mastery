@@ -1,0 +1,10 @@
+import pandas as pd 
+#report_a=pd.DataFrame({"Product":["Bread","Milk"],"Sales":[100,200]})
+#report_b=pd.DataFrame({"Product":["Sugar","Rice"],"Sales":[150,300]})
+#print(pd.concat([report_a,report_b],ignore_index=True))
+report_a=pd.DataFrame({"Product":["Bread","Milk"]})
+report_b=pd.DataFrame({"Sales":[150,300]})
+#print(pd.concat([report_a,report_b],ignore_index=True))
+#print(report_a)
+#print(report_b)
+print(pd.concat([report_a,report_b],axis=1))

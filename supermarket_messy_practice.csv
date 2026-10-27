@@ -1,0 +1,30 @@
+Order_ID,Branch,City,Product,Quantity,Price,Total_Sales,Sale_Date,Customer_Type,Payment_Method
+S001,Eldoret,Eldoret,Milk,5,80,400,2026-09-01,Walk-in,Cash
+S002,Nairobi,Nairobi,Bread,3,70,210,01/09/2026,Member,M-Pesa
+S003,Thika,Thika,Sugar,2,200,400,2026-09-03,Walk-in,Cash
+S004,Eldoret,N/A,Bread,4,70,280,2026-09-04,Member,Card
+S005,Nairobi,unknown,Milk,6,80,480,04-09-2026, walk-in ,M-Pesa
+S006,Thika,??,Water,5,50,250,2026/09/05,Member,Cash
+S007,Eldoret, Eldoret ,milk,3,80,240,2026-09-06,Walk-in,Cash
+S008,Nairobi, Nairobi,BREAD,4,70,280,2026-09-07,Member,M-Pesa
+S009,Thika,Thika, Sugar ,2,200,400,wrong-date,Walk-in,Card
+S010,Eldoret,Eldoret,Milk,5,80,400,2026-09-09,Member,Cash
+S011,Nairobi,Nairobi,Bread,3,70,210,2026-09-10,Walk-in,M-Pesa
+S012,Thika,Thika,Water,4,50,200,2026-09-11,Member,Cash
+S013,Eldoret,Eldoret,Milk,5,80,400,2026-09-01,Walk-in,Cash
+S014,Nairobi,Nairobi,Sugar,1,200,200,2026-09-13,,Card
+S015,Thika,Thika,Bread,0,70,140,2026-09-14,Member,Cash
+S016,Eldoret,Eldoret,Water,-2,50,-100,2026-09-15,Walk-in,M-Pesa
+S017,Nairobi,Nairobi,Milk,two,80,160,2026-09-16,Member,Cash
+S018,Thika,Thika,Bread,3,free,210,2026-09-17,Walk-in,Card
+S019,Kisumu,Kisumu,Sugar,2,200,400,2026-09-18,Member,M-Pesa
+S020,Eldoret,Eldoret,,4,50,200,2026-09-19,Walk-in,Cash
+S021,Nairobi,Nairobi,Water,3,50,150,2026-09-20,Member,M-Pesa
+S022,Thika,Thika,Milk,4,80,320,2026-09-21,Walk-in,Cash
+S023,Eldoret,Eldoret,Bread,2,70,140,2026-09-22,Member,Card
+S024,Nairobi,Nairobi,Sugar,1,200,200,2026-09-23,Walk-in,Cash
+S025,Thika,Thika,Water,6,50,300,2026-09-24,Member,M-Pesa
+S026,Eldoret,Eldoret,Milk,5,80,400,2026-09-25,Walk-in,Cash
+S026,Eldoret,Eldoret,Milk,5,80,400,2026-09-25,Walk-in,Cash
+S027,Nairobi,Nairobi,Bread,3,70,210,2026-09-26,Member,M-Pesa
+S028,Thika,Thika,Milk,4,80,320,2026-09-27,Walk-in,Cash
