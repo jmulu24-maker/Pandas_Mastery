@@ -49,6 +49,7 @@ df_original=pd.read_csv("supermarket_messy_practice.csv")
 missing_dates_percentage=(4/28)*100
 #print(missing_dates_percentage)
 #print(df_check.duplicated().sum())
+#learning Git: my first tracked change
 
 
 
